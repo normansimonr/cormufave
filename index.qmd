@@ -1,0 +1,46 @@
+---
+# No title, it's taken from the YAML
+---
+
+::: {.hero-section}
+![Una imagen de pantalla ancha que representa a la comunidad.](images/bienvenida.png){width="100%"}
+:::
+
+::: {.green-section}
+## Quiénes somos
+
+CORMUFAVE (Corporación Mujeres y Familia de El Vergel) es una organización sin ánimo de lucro que trabaja por el bienestar de la comunidad de San Antonio de Prado, zona rural de Medellín, en Colombia. Nuestra misión es mejorar la calidad de vida de las familias rurales a través de programas de educación, agroecología y desarrollo económico.
+:::
+
+::: {.white-section}
+## Qué hacemos
+
+Agroecología
+
+
+Educación
+
+
+Desarollo económico
+:::
+
+::: {.green-section}
+## Síguenos en Instagram
+
+¡Síguenos en Instagram para estar al día con nuestras últimas noticias, eventos e iniciativas!
+
+[<i class="bi bi-instagram"></i> @mujeresyfamilia.vergel](https://www.instagram.com/mujeresyfamilia.vergel)
+:::
+
+::: {.white-section}
+## Contacto ![WhatsApp logo](images/WhatsApp.svg){width="30"}
+
+Puedes contactarnos a través de WhatsApp:
+
+*   [WhatsApp 1](https://wa.me/1234567890)
+*   [WhatsApp 2](https://wa.me/0987654321)
+
+Cómo llegar
+
+GOOGLE MAPS
+:::

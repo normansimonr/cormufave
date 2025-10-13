@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Cormufave"
+  navbar:
+    left:
+      - href: index.html
+        text: Inicio
+    right:
+      - icon: instagram
+        href: "https://www.instagram.com/mujeresyfamilia.vergel"
+      - text: "![Colombia](images/co.svg){width=30}"
+        href: "index.qmd"
+      - text: "![United Kingdom](images/gb.svg){width=30}"
+        href: "index.qmd"
+  page-footer:
+    left: "© Cormufave. Todos los derechos reservados."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    lang: es

@@ -1,0 +1,27 @@
+/* styles.css */
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Signika&display=swap');
+
+body {
+  font-family: 'Signika', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Arvo', serif;
+}
+
+.hero-section {
+  margin: 0;
+  padding: 0;
+}
+
+.green-section {
+  background-color: #a8d8b9; /* A shade of green */
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.white-section {
+  background-color: #ffffff;
+  padding: 2rem 1rem;
+  text-align: center;
+}
