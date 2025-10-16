@@ -4,19 +4,25 @@ project:
 
 website:
   title: "Cormufave"
+  back-to-top-navigation: true    
   navbar:
-    left:
-      - href: index.html
-        text: Inicio
+    title: "**CORMUFAVE**"
+    background: "#1b802c"
+    logo: "images/logo-navbar.png"
+    search: false
     right:
       - icon: instagram
         href: "https://www.instagram.com/mujeresyfamilia.vergel"
-      - text: "![Colombia](images/co.svg){width=30}"
+      - text: "![Español](images/co.svg){width=30}"
         href: "index.qmd"
-      - text: "![United Kingdom](images/gb.svg){width=30}"
+      - text: "![English](images/gb.svg){width=30}"
         href: "index.qmd"
   page-footer:
-    left: "© Cormufave. Todos los derechos reservados."
+    background: "#1b802c"
+    center:
+    - text: "© CORMUFAVE, Corporación Mujeres y Familia El Vergel •"
+    - icon: instagram
+      href: "https://www.instagram.com/mujeresyfamilia.vergel"
 
 format:
   html:

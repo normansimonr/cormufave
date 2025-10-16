@@ -2,17 +2,28 @@
 # No title, it's taken from the YAML
 ---
 
-::: {.hero-section}
-![Una imagen de pantalla ancha que representa a la comunidad.](images/bienvenida.png){width="100%"}
+
+
+::: {.center}
+![](images/logo.png){width="50%" fig-align="center"}
 :::
 
-::: {.green-section}
+
+
+::: {.hero-section}
+![](images/bienvenida.png){width="100%"}
+:::
+
+::: {.center}
 ## Quiénes somos
 
-CORMUFAVE (Corporación Mujeres y Familia de El Vergel) es una organización sin ánimo de lucro que trabaja por el bienestar de la comunidad de San Antonio de Prado, zona rural de Medellín, en Colombia. Nuestra misión es mejorar la calidad de vida de las familias rurales a través de programas de educación, agroecología y desarrollo económico.
+CORMUFAVE (Corporación Mujeres y Familia El Vergel) es una organización sin ánimo de lucro que trabaja por el bienestar de la comunidad de San Antonio de Prado, zona rural de Medellín, en Colombia. Nuestra misión es mejorar la calidad de vida de las familias rurales a través de programas de educación, agroecología y desarrollo económico.
+
+
+
 :::
 
-::: {.white-section}
+::: {.center}
 ## Qué hacemos
 
 Agroecología
@@ -32,20 +43,23 @@ Desarollo económico
 [<i class="bi bi-instagram"></i> @mujeresyfamilia.vergel](https://www.instagram.com/mujeresyfamilia.vergel)
 :::
 
-::: {.white-section}
-## Contacto ![WhatsApp logo](images/WhatsApp.svg){width="30"}
+::: {.center}
+
+## Contacto
 
 Puedes contactarnos a través de WhatsApp:
 
-*   [WhatsApp 1](https://wa.me/1234567890)
-*   [WhatsApp 2](https://wa.me/0987654321)
+*   {{< fa brands whatsapp >}} [+573028200202](https://wa.me/+573028200202)
+*   {{< fa brands whatsapp >}} [+573225206970](https://wa.me/+573225206970)
 
-Cómo llegar
+O a través de nuestro correo electrónico:
 
-GOOGLE MAPS
+* {{< fa envelope >}} <a href="mailto:cormufave@gmail.com">cormufave@gmail.com</a>
+
+
+Nos encontramos en la Carrera 79A #48A 03 Sur, vereda El Vergel, corregimiento de San Antonio de Prado, Medellín, Colombia.
+
+<div style="text-align: center;">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d223.55625418864656!2d-75.65748511533658!3d6.179190626287354!2m3!1f344.65578425932296!2f6.613695234114141!3f0!3m2!1i1024!2i768!4f35!5e1!3m2!1sen!2sco!4v1760635528401!5m2!1sen!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 :::
-
-
-NOS APOYAN
-
-SENA, SURA, ETC

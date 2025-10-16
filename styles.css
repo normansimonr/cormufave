@@ -1,13 +1,40 @@
 /* styles.css */
-@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Signika&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Sans&family=Signika&display=swap');
+
+
+:root {
+  --main-text-color: #313131;
+  --accent-color: #1b802c;
+  --background-color: white;
+}
+
 
 body {
-  font-family: 'Signika', sans-serif;
+  font-family: 'Funnel Sans', sans-serif;
 }
 
+
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Arvo', serif;
+  font-family: 'Funnel Sans', serif;
+  color: var(--accent-color);
+  text-align: center;
 }
+
+a {
+  color: var(--accent-color);
+}
+
+a:hover {
+  color: var(--main-text-color);
+}
+
+
+.navbar-brand {
+      color: white;   /* Change text color #653200? */
+      text-align: center;
+      /* text-shadow: 1px 1px white;*/
+    }
 
 .hero-section {
   margin: 0;
@@ -25,3 +52,4 @@ h1, h2, h3, h4, h5, h6 {
   padding: 2rem 1rem;
   text-align: center;
 }
+
