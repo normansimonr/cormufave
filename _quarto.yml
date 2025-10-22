@@ -6,13 +6,11 @@ website:
   title: "Cormufave"
   back-to-top-navigation: true    
   navbar:
-    title: "**CORMUFAVE**"
-    background: "#1b802c"
-    logo: "images/logo-navbar.png"
+    title: false
+    background: transparent
+    pinned: true
     search: false
     right:
-      - icon: instagram
-        href: "https://www.instagram.com/mujeresyfamilia.vergel"
       - text: "![Español](images/co.svg){width=30}"
         href: "index.qmd"
       - text: "![English](images/gb.svg){width=30}"

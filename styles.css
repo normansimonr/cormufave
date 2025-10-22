@@ -11,6 +11,10 @@
 
 body {
   font-family: 'Funnel Sans', sans-serif;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url('images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
 }
 
 
@@ -30,8 +34,13 @@ a:hover {
 }
 
 
+.navbar .nav-link {
+  color: black;
+  font-size: 14pt;
+}
+
 .navbar-brand {
-      color: white;   /* Change text color #653200? */
+      color: var(--accent-color);   /* Change text color #653200? */
       text-align: center;
       /* text-shadow: 1px 1px white;*/
     }
@@ -42,14 +51,18 @@ a:hover {
 }
 
 .green-section {
-  background-color: #a8d8b9; /* A shade of green */
-  padding: 2rem 1rem;
+  background: var(--accent-color);
+  padding: 2rem 0;
   text-align: center;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
 }
 
 .white-section {
-  background-color: #ffffff;
-  padding: 2rem 1rem;
+  background: white;
+  padding: 2rem 0;
   text-align: center;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
 }
 
