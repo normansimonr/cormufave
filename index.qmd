@@ -73,7 +73,9 @@ Trabajamos por el bienestar de la comunidad de San Antonio de Prado, zona rural 
 
 [<i class="bi bi-instagram"></i> @mujeresyfamilia.vergel](https://www.instagram.com/mujeresyfamilia.vergel)
 
+<div style="display: flex; justify-content: center;">
 {{< share-post https://www.instagram.com/p/CyCBdO4O4GZ/?utm_source=ig_web_button_share_sheet >}}
+</div>
 
 :::
 
