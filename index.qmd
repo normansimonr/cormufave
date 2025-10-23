@@ -2,11 +2,10 @@
 # No title, it's taken from the YAML
 ---
 
-
-
-::: {.center}
+::: {.logo-section}
 ![](images/logo.png){width="45%" fig-align="center"}
 :::
+
 
 
 ::: {.who-we-are-section}
@@ -24,7 +23,7 @@ Trabajamos por el bienestar de la comunidad de San Antonio de Prado, zona rural 
 :::
 
 ::: {.what-we-do-section}
-## Qué hacemos
+<h2 style="color:white;">Qué hacemos</h2>
 
 ```{=html}
 <div class="flip-card-container">
@@ -32,10 +31,10 @@ Trabajamos por el bienestar de la comunidad de San Antonio de Prado, zona rural 
     <div class="flip-card-inner">
       <div class="flip-card-front">
         <img src="images/platano.jpeg" alt="Agroecología">
-        <h3>Agroecología</h3>
+        <b>Agroecología</b>
       </div>
       <div class="flip-card-back">
-        <p>Promoción de la agricultura regenerativa</p>
+        <p>Promoviendo la agricultura regenerativa, el compostaje y el cuidado del medioambiente.</p>
       </div>
     </div>
   </div>
@@ -44,10 +43,10 @@ Trabajamos por el bienestar de la comunidad de San Antonio de Prado, zona rural 
     <div class="flip-card-inner">
       <div class="flip-card-front">
         <img src="images/bandeja.jpg"  alt="Soberanía alimentaria">
-        <h3>Soberanía alimentaria</h3>
+        <b>Soberanía alimentaria</b>
       </div>
       <div class="flip-card-back">
-        <p>Garantizar que la gente coma y darles el poder de producir y decidir sobre sus alimentos.</p>
+        <p>Ayudando a las personas a producir y decidir sobre sus alimentos para incrementar la salud y mejorar las finanzas familiares.</p>
       </div>
     </div>
   </div>
@@ -56,10 +55,10 @@ Trabajamos por el bienestar de la comunidad de San Antonio de Prado, zona rural 
     <div class="flip-card-inner">
       <div class="flip-card-front">
         <img src="images/comunidad.jpg" alt="Desarollo comunitario">
-        <h3>Desarollo comunitario</h3>
+        <b>Desarollo comunitario y de la mujer</b>
       </div>
       <div class="flip-card-back">
-        <p>Fortalecimiento de las mujeres, a quienes consideramos agentes de cambio en sus familias y territorios.</p>
+        <p>Capacitando a las mujeres y a sus familias en temas de desarrollo personal y comunitario para generar cambios positivos en sus hogares y territorios.</p>
       </div>
     </div>
   </div>
@@ -69,11 +68,13 @@ Trabajamos por el bienestar de la comunidad de San Antonio de Prado, zona rural 
 [Saber más](hacemos_es.qmd){.btn .btn-primary}
 :::
 
-::: {.instagram-section}
+
+
+::: {.flower-section}
+
+<div class="solid-box">
 
 ## Síguenos en Instagram <i class="bi bi-instagram"></i>
-
-¡Síguenos para estar al día con nuestras últimas noticias, eventos e iniciativas!
 
 [<i class="bi bi-instagram"></i> @mujeresyfamilia.vergel](https://www.instagram.com/mujeresyfamilia.vergel)
 
@@ -81,29 +82,22 @@ Trabajamos por el bienestar de la comunidad de San Antonio de Prado, zona rural 
 {{< share-post https://www.instagram.com/p/CyCBdO4O4GZ/?utm_source=ig_web_button_share_sheet >}}
 </div>
 
-:::
-
-::: {.green-section}
-
-<div class="solid-box">
-## Contáctanos
-
-Puedes contactarnos a través de WhatsApp:
-
-*   {{< fa brands whatsapp >}} [+573028200202](https://wa.me/+573028200202)
-*   {{< fa brands whatsapp >}} [+573225206970](https://wa.me/+573225206970)
-
-O a través de nuestro correo electrónico:
-
-* {{< fa envelope >}} <a href="mailto:cormufave@gmail.com">cormufave@gmail.com</a>
 </div>
 :::
 
 
-::: {.center}
-## Visítanos
+::: {.visitanos-section}
+<br>
 
-Nos encontramos en la Carrera 79A #48A 03 Sur, vereda El Vergel, corregimiento de San Antonio de Prado, Medellín, Colombia.
+## Contacto
+
+Puedes contactarnos a través de WhatsApp:
+
+{{< fa brands whatsapp >}} [+57 302 820 02 02](https://wa.me/+573028200202) | {{< fa brands whatsapp >}} [+57 322 520 69 70](https://wa.me/+573225206970)
+
+O por correo electrónico: {{< fa envelope >}} <a href="mailto:cormufave@gmail.com">cormufave@gmail.com</a>
+
+**Dirección:** Carrera 79A #48A 03 Sur, vereda El Vergel, corr. San Antonio de Prado, Medellín.
 
 **Nota:** Visita con cita previa.
 

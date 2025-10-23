@@ -47,24 +47,18 @@ a:hover {
       /* text-shadow: 1px 1px white;*/
     }
 
-.hero-section {
-  margin: 0;
-  padding: 0;
-}
+
 
 .logo-section {
-  background-image: url('images/flowers.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  padding: 2rem 0;
   text-align: center;
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
+  margin: 0;
+  padding: 0;
+  /*max-height: 370px;*/
+  padding-bottom: 20px;
 }
 
-.green-section {
-  background-image: url('images/flowers.jpg');
+.flower-section {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/flowers.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -108,6 +102,10 @@ a:hover {
 }
 
 .center {
+  text-align: center;
+}
+
+.visitanos-section {
   text-align: center;
 }
 
@@ -188,4 +186,25 @@ img {
   border-radius: 15px;
   padding: 10px;
   display: inline-block;
+}
+
+.hacemos_es-page {
+  background-image: url('images/flowers.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.btn {
+  background-color: var(--accent-color);   /* normal background */
+  color: white;                /* text color */
+  border-radius: 15px;
+  border: none;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: white;   /* hover background */
+  color: var(--accent-color);              /* hover text color */
 }

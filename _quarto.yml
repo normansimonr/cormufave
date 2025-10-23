@@ -11,9 +11,9 @@ website:
     pinned: true
     search: false
     right:
-      - text: "![Español](images/co.svg){width=30}"
+      - text: "<img src='images/co.svg' style='width:30px; border-radius:0px;'>"
         href: "index.qmd"
-      - text: "![English](images/gb.svg){width=30}"
+      - text: "<img src='images/gb.svg' style='width:30px; border-radius:0px;'>"
         href: "index.qmd"
   page-footer:
     background: "#124a06"
@@ -27,6 +27,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    anchor-sections: false
     lang: es
     include-after-body:
       - text: |
