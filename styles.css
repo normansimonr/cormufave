@@ -51,7 +51,10 @@ a:hover {
 }
 
 .green-section {
-  background: var(--accent-color);
+  background-image: url('images/flowers.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   padding: 2rem 0;
   text-align: center;
   width: 100vw;
