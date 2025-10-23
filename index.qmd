@@ -5,7 +5,7 @@
 
 
 ::: {.center}
-![](images/logo.png){width="50%" fig-align="center"}
+![](images/logo.png){width="45%" fig-align="center"}
 :::
 
 
@@ -16,32 +16,72 @@
 
 Trabajamos por el bienestar de la comunidad de San Antonio de Prado, zona rural de Medellín, Colombia.
 
-![](images/bienvenida.png){width="40%" fig-align="center"}
+![](images/bienvenida.png){width="30%" fig-align="center"}
+:::
 
+::: {.what-we-do-section}
+## Qué hacemos
+
+```{=html}
+<div class="flip-card-container">
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <img src="images/platano.jpeg" alt="Agroecología">
+        <h3>Agroecología</h3>
+      </div>
+      <div class="flip-card-back">
+        <p>Promoción de la agricultura regenerativa</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <img src="images/bandeja.jpg"  alt="Soberanía alimentaria">
+        <h3>Soberanía alimentaria</h3>
+      </div>
+      <div class="flip-card-back">
+        <p>Garantizar que la gente coma y darles el poder de producir y decidir sobre sus alimentos.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <img src="images/comunidad.jpg" alt="Desarollo comunitario">
+        <h3>Desarollo comunitario</h3>
+      </div>
+      <div class="flip-card-back">
+        <p>Fortalecimiento de las mujeres, a quienes consideramos agentes de cambio en sus familias y territorios.</p>
+      </div>
+    </div>
+  </div>
+</div>
+```
+
+[Saber más](hacemos_es.qmd){.btn .btn-primary}
+:::
+
+::: {.instagram-section}
+
+## Síguenos en Instagram <i class="bi bi-instagram"></i>
+
+¡Síguenos para estar al día con nuestras últimas noticias, eventos e iniciativas!
+
+[<i class="bi bi-instagram"></i> @mujeresyfamilia.vergel](https://www.instagram.com/mujeresyfamilia.vergel)
+
+{{< share-post https://www.instagram.com/p/CyCBdO4O4GZ/?utm_source=ig_web_button_share_sheet >}}
 
 :::
 
 ::: {.green-section}
-## Qué hacemos
 
-Agroecología
+## Contáctanos
 
-Soberanía alimentaria
-
-Desarollo comunitario
-
-[Saber más](hacemos_es.qmd)
-:::
-
-::: {.center}
-
-## Contacto
-
-¡Síguenos en Instagram para estar al día con nuestras últimas noticias, eventos e iniciativas!
-
-[<i class="bi bi-instagram"></i> @mujeresyfamilia.vergel](https://www.instagram.com/mujeresyfamilia.vergel)
-
-Puedes también contactarnos a través de WhatsApp:
+Puedes contactarnos a través de WhatsApp:
 
 *   {{< fa brands whatsapp >}} [+573028200202](https://wa.me/+573028200202)
 *   {{< fa brands whatsapp >}} [+573225206970](https://wa.me/+573225206970)
@@ -52,7 +92,7 @@ O a través de nuestro correo electrónico:
 :::
 
 
-::: {.white-section}
+::: {.center}
 ## Visítanos
 
 Nos encontramos en la Carrera 79A #48A 03 Sur, vereda El Vergel, corregimiento de San Antonio de Prado, Medellín, Colombia.

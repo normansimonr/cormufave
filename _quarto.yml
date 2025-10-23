@@ -28,3 +28,6 @@ format:
     css: styles.css
     toc: false
     lang: es
+    include-after-body:
+      - text: |
+          <script async src="//www.instagram.com/embed.js"></script>
