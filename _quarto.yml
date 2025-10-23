@@ -16,7 +16,7 @@ website:
       - text: "![English](images/gb.svg){width=30}"
         href: "index.qmd"
   page-footer:
-    background: "#1b802c"
+    background: "#124a06"
     center:
     - text: "© CORMUFAVE, Corporación Mujeres y Familia El Vergel •"
     - icon: instagram

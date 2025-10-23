@@ -4,7 +4,7 @@
 
 :root {
   --main-text-color: #313131;
-  --accent-color: #1b802c;
+  --accent-color: #124a06;
   --background-color: white;
   --brown: #653300;
   --orange: #fad3c5;
@@ -13,7 +13,7 @@
 
 body {
   font-family: 'Funnel Sans', sans-serif;
-  background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url('images/background.jpg');
+  background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url('images/background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
@@ -76,6 +76,17 @@ a:hover {
 
 .what-we-do-section {
   background-image: url('images/hoja_platano.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 2rem 0;
+  text-align: center;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+}
+
+.who-we-are-section {
+  background-image: url('images/yellow-flowers.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -170,4 +181,11 @@ a:hover {
 
 img {
   border-radius: 15px;
+}
+
+.solid-box {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 15px;
+  padding: 10px;
+  display: inline-block;
 }

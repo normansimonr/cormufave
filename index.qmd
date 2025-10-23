@@ -9,14 +9,18 @@
 :::
 
 
-::: {.white-section}
+::: {.who-we-are-section}
+
+<div class="solid-box">
 ## Quiénes somos
 
 **CORMUFAVE** es la Corporación Mujeres y Familia El Vergel.
 
 Trabajamos por el bienestar de la comunidad de San Antonio de Prado, zona rural de Medellín, Colombia.
 
-![](images/bienvenida.png){width="30%" fig-align="center"}
+![](images/bienvenida.png){width="70%" fig-align="center"}
+
+</div>
 :::
 
 ::: {.what-we-do-section}
@@ -81,6 +85,7 @@ Trabajamos por el bienestar de la comunidad de San Antonio de Prado, zona rural 
 
 ::: {.green-section}
 
+<div class="solid-box">
 ## Contáctanos
 
 Puedes contactarnos a través de WhatsApp:
@@ -91,6 +96,7 @@ Puedes contactarnos a través de WhatsApp:
 O a través de nuestro correo electrónico:
 
 * {{< fa envelope >}} <a href="mailto:cormufave@gmail.com">cormufave@gmail.com</a>
+</div>
 :::
 
 
