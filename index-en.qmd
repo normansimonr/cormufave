@@ -1,0 +1,108 @@
+---
+# No title, it's taken from the YAML
+---
+
+::: {.logo-section}
+![](images/logo.png){width="45%" fig-align="center"}
+:::
+
+
+
+::: {.who-we-are-section}
+
+<div class="solid-box">
+## Who we are
+
+**CORMUFAVE** is the Corporation Women and Family 'El Vergel'.
+
+We work for the well-being of the community of San Antonio de Prado, a rural area of Medellín, Colombia.
+
+![](images/bienvenida.png){width="70%" fig-align="center"}
+
+</div>
+:::
+
+::: {.what-we-do-section}
+<h2 style="color:white;">What we do</h2>
+
+```{=html}
+<div class="flip-card-container">
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <img src="images/platano.jpeg" alt="Agroecology">
+        <b>Agroecology</b>
+      </div>
+      <div class="flip-card-back">
+        <p>Promoting regenerative agriculture, composting, and environmental consciousness.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <img src="images/bandeja.jpg"  alt="Food sovereignty">
+        <b>Food sovereignty</b>
+      </div>
+      <div class="flip-card-back">
+        <p>Helping people grow their own food and choose what to eat to improve their health and family finances.</p>
+      
+      </div>
+    </div>
+  </div>
+
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <img src="images/comunidad.jpg" alt="Community development">
+        <b>Community and women's development</b>
+      </div>
+      <div class="flip-card-back">
+        <p>Training women and their families in personal and community growth to inspire transformation in their homes and communities.</p>
+      </div>
+    </div>
+  </div>
+</div>
+```
+
+[Learn more](hacemos-en.qmd){.btn .btn-primary}
+:::
+
+
+
+::: {.flower-section}
+
+<div class="solid-box">
+
+## Follow us on Instagram <i class="bi bi-instagram"></i>
+
+[<i class="bi bi-instagram"></i> @mujeresyfamilia.vergel](https://www.instagram.com/mujeresyfamilia.vergel)
+
+<div style="display: flex; justify-content: center;">
+{{< share-post https://www.instagram.com/p/CyCBdO4O4GZ/?utm_source=ig_web_button_share_sheet >}}
+</div>
+
+</div>
+:::
+
+
+::: {.visitanos-section}
+<br>
+
+## Contact
+
+You can contact us via WhatsApp:
+
+{{< fa brands whatsapp >}} [+57 302 820 02 02](https://wa.me/+573028200202) | {{< fa brands whatsapp >}} [+57 322 520 69 70](https://wa.me/+573225206970)
+
+Or by email: {{< fa envelope >}} <a href="mailto:cormufave@gmail.com">cormufave@gmail.com</a>
+
+**Address:** Carrera 79A #48A 03 Sur, vereda El Vergel, corr. San Antonio de Prado, Medellín.
+
+**Note:** Visit by appointment.
+
+<div style="text-align: center;">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d223.55625418864656!2d-75.65748511533658!3d6.179190626287354!2m3!1f344.65578425932296!2f6.613695234114141!3f0!3m2!1i1024!2i768!4f35!5e1!3m2!1i1024!2i768!4v1760635528401!5m2!1sen!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+:::

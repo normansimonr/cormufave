@@ -1,10 +1,12 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
 
 website:
   title: "Cormufave"
-  back-to-top-navigation: true    
+  back-to-top-navigation: false    
   navbar:
     title: false
     background: transparent
@@ -14,7 +16,7 @@ website:
       - text: "<img src='images/co.svg' style='width:30px; border-radius:0px;'>"
         href: "index.qmd"
       - text: "<img src='images/gb.svg' style='width:30px; border-radius:0px;'>"
-        href: "index.qmd"
+        href: "index-en.qmd"
   page-footer:
     background: "#124a06"
     center:
