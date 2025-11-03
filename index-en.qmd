@@ -42,7 +42,7 @@ We work for the well-being of the community of San Antonio de Prado, a rural are
   <div class="flip-card">
     <div class="flip-card-inner">
       <div class="flip-card-front">
-        <img src="images/bandeja.jpg"  alt="Food sovereignty">
+        <img src="images/seguridad.jpeg"  alt="Food sovereignty">
         <b>Food sovereignty</b>
       </div>
       <div class="flip-card-back">
@@ -103,6 +103,6 @@ Or by email: {{< fa envelope >}} <a href="mailto:cormufave@gmail.com">cormufave@
 **Note:** Visit by appointment.
 
 <div style="text-align: center;">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d223.55625418864656!2d-75.65748511533658!3d6.179190626287354!2m3!1f344.65578425932296!2f6.613695234114141!3f0!3m2!1i1024!2i768!4f35!5e1!3m2!1i1024!2i768!4v1760635528401!5m2!1sen!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d223.55625418864656!2d-75.65748511533658!3d6.179190626287354!2m3!1f344.65578425932296!2f6.613695234114141!3f0!3m2!1i1024!2i768!4f35!5e1!3m2!1i1024!2i768!4v1760635528401!5m2!1sen!2sco" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 :::

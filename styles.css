@@ -17,6 +17,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
+  overflow-x: hidden;
 }
 
 
@@ -106,7 +107,14 @@ a:hover {
 }
 
 .visitanos-section {
+  background-image: url('images/background_lower.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 2rem 0;
   text-align: center;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
 }
 
 .instagram-section {

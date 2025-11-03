@@ -43,7 +43,7 @@ Abordamos el acceso a los alimentos desde dos frentes: la seguridad (garantizar 
 *   **Educación Culinaria:** Para fomentar una alimentación variada y saludable, utilizamos un **grupo de WhatsApp** para compartir recetas, especialmente de productos poco conocidos. Además, contamos con una **cocina móvil** y realizamos charlas sobre cocina saludable para jóvenes en colegios.
 *   **Fomento de la Soberanía:** Impulsamos activamente la **"siembra en los hogares"**. Ayudamos a las mujeres a aprovechar cualquier espacio disponible (balcones, terrazas) para implementar sistemas de **siembra en canastas**, permitiéndoles cultivar sus propios alimentos con los recursos que tienen a mano.
 
-![](images/bandeja.jpg){width="50%" fig-align="center"}
+![](images/seguridad.jpeg){width="50%" fig-align="center"}
 
 #### 3. Eje de educación y desarrollo comunitario
 
